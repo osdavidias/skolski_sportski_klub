@@ -1,0 +1,46 @@
+
+
+
+
+h1 {
+ 
+   color: red;
+   text-align: center; 
+  
+ 
+}
+
+body#unos{
+  
+  background-color: #5DDE86;
+  
+
+}
+
+body#prikaz{
+  
+  background-color: #ADDCF7;
+  
+
+}
+
+table{
+    display:table;
+    border: 1px solid black;
+    table-layout:fixed;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) td{ background-color: #EDF7EE;}
+tr:nth-child(odd) td{background-color: #D6C163;}
+
+#div1{
+  background-color: "ff6699";
+  font-weight: bold;
+}
+
+#div2
+{
+  background-color: "ccffff";
+}
+
